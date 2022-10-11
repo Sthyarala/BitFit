@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Codepath/Android Development/Projects/BitFit/app/src/main/res/layout/activity_confirm_delete.xml" value="0.3625" />
+        <entry key="..\:/Codepath/Android Development/Projects/BitFit/app/src/main/res/layout/activity_details.xml" value="0.3614583333333333" />
         <entry key="..\:/Codepath/Android Development/Projects/BitFit/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Codepath/Android Development/Projects/BitFit/app/src/main/res/layout/food_item.xml" value="0.2965811965811966" />
       </map>
     </option>
   </component>
